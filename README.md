@@ -7,8 +7,8 @@ MS Computer Science at University of Southern California
 Los Angeles, CA  
 pushkarajbaradkar1@gmail.com  
 https://pushkaraj.dev  
-https://linkedin.com/in/pushks18  
-https://github.com/pushks18  
+https://linkedin.com/in/pushkarajbaradkar
+https://github.com/pushkaraj-1
 
 I am a software engineer focused on building real-world systems across AI, backend infrastructure, and real-time pipelines.  
 
