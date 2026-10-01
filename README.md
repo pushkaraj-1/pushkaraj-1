@@ -10,11 +10,10 @@ https://pushkaraj.dev
 https://linkedin.com/in/pushkarajbaradkar
 https://github.com/pushkaraj-1
 
-I am a software engineer focused on building real-world systems across AI, backend infrastructure, and real-time pipelines.  
+I'm a software engineer building real-world systems across AI, backend infrastructure, and real-time pipelines.
 
-I am pursuing a Master’s in Computer Science at the University of Southern California. My work focuses on designing and building large-scale machine learning systems, AI infrastructure, and production-grade software.
+I'm pursuing a Master's in Computer Science at the University of Southern California, graduating December 2026. My work focuses on large-scale machine learning systems, AI infrastructure, and production-grade software.
 
-Currently, I am an AI Engineer Intern at Tabhi, where I am building large-scale recommendation systems and designing multi-agent architectures for real-time booking workflows.
+At USC, I'm a Research Assistant in Prof. Laurent Itti's group, building monocular SLAM for assistive smart glasses. My C++ GTSAM pose-graph backend reduced trajectory error from 29–58 m to 0.09–0.24 m while optimizing 2,486 poses in 0.36 s.
 
-At USC, I built a multi-sensor SLAM pipeline that processes real-world data at 20–25 FPS. By focusing on calibration, optimization, and robust data handling, I reduced trajectory error from approximately 95 meters to under 0.8 meters ATE. I also improved system stability by addressing sensor noise and failure cases, reducing tracking dropouts by around 30%.
-
+As an AI Engineer Intern at Tabhi (May–Aug 2026), I built a personalized discovery feed over 450K+ items using hybrid retrieval, and cut cold-feed latency from 8 s to 500 ms.
